@@ -1,0 +1,11 @@
+{
+  "name": "ogglo-backend",
+  "version": "1.0.0",
+  "description": "Ogglo.xyz: Open Source Search Engine tuned for programmers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3"
+}
